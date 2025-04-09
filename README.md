@@ -6,7 +6,7 @@
 **Domain:** https://sportsblog.site  
 **Public IP:** 13.41.138.108
 
-**Video Presentation:**: bn
+**Video Presentation:**: https://youtu.be/JdQA8PooxeQ
 
 ---
 
