@@ -24,9 +24,9 @@ JavaScript-powered **scroll-to-top button** implemented. It enhances user experi
 
 ## Development Timeline
 
-- **Week 1:** EC2 and WordPress installation  
-- **Week 2:** Theme setup and homepage layout  
-- **Week 3:** Content pages like creating blogs. Setting up SSL.
-- **Week 4:** Implemented scripting, polished layout, and created documentation
+- **Week 1:** Completed EC2 instance setup, linked custom domain, and installed WordPress.  
+- **Week 2:** Customized theme, created homepage and key content pages. 
+- **Week 3:** Interactive features, and scroll-to-top JavaScript. Setting up SSL.
+- **Week 4:** Final tweaks, dark mode styling, documentation, and GitHub timeline updates.
 
 - Note: While actual commits were made close to the submission date, this documentation and file structure reflects the true weekly development progress of the project.
